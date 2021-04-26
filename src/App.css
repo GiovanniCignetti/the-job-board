@@ -78,3 +78,9 @@ h1 {
 .footer span {
   font-weight: 700;
 }
+
+@media (max-width: 1024px) {
+  .jobs {
+    width: auto;
+  }
+}
